@@ -1,4 +1,4 @@
-## align="center">Hi 👋, I'm Aditya Patil</h1>
+Hi 👋, I'm Aditya Patil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
